@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rajesh
 
-- 🌱 I’m currently learning salesforce
+- 🌱 I’m currently learning salesforce, javascript, html, css
 
 
 <!---
